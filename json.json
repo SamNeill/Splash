@@ -1,5 +1,4 @@
-[
-    {
+[{
 		"name": "Orbic Sapphire",
 		"author": "Sam Summer & Resplash",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Orbic%20Sapphire.jpg",
@@ -9,16 +8,16 @@
 		"copyright": "Sam Summer",
 		"collections": "Orbic"
 	},
-	
-	
-	
-	
-	
-	
-	
-	
-	
-      {
+
+
+
+
+
+
+
+
+
+	{
 		"name": "Orbic Sapphire",
 		"author": "Sam Summer & Resplash",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Orbic%20Sapphire1.jpg",
@@ -138,7 +137,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Orbic"
 	},
-		{
+	{
 		"name": "Deep Pumpkin",
 		"author": "Sam Summer",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Deep%20Pumpkin.jpg",
@@ -234,7 +233,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Deep"
 	},
-		{
+	{
 		"name": "Orbic Burnt",
 		"author": "Sam Summer & Resplash",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Orbic%20Burnt.jpg",
@@ -274,7 +273,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Lit Teal"
 	},
-		{
+	{
 		"name": "Lit Teal",
 		"author": "Sam Summer & Resplash",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Lit%20Teal2.jpg",
@@ -298,7 +297,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Lit Teal"
 	},
-		{
+	{
 		"name": "Lit Teal",
 		"author": "Sam Summer & Resplash",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Lit%20Teal5.jpg",
@@ -354,7 +353,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Orbic"
 	},
-		{
+	{
 		"name": "Deep Pink",
 		"author": "Saro Rindone",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Deep%20Pink.jpg",
@@ -370,7 +369,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Deep Pink"
 	},
-		{
+	{
 		"name": "Deep Pink",
 		"author": "Maria Ps",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Deep%20Pink2.jpg",
@@ -394,7 +393,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Deep Pink"
 	},
-		{
+	{
 		"name": "Deep Pink",
 		"author": "Saro Rindone",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Deep%20Pink5.jpg",
@@ -450,7 +449,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Deep Pink"
 	},
-		{
+	{
 		"name": "Deep Pink",
 		"author": "Photo's",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Deep%20Pink12.jpg",
@@ -458,7 +457,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Deep Pink"
 	},
-		{
+	{
 		"name": "Deep Teal",
 		"author": "Maria Ps",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Deep%20Teal.jpg",
@@ -498,7 +497,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Deep Teal"
 	},
-		{
+	{
 		"name": "Deep Teal",
 		"author": "Photo's",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Deep%20Teal5.jpg",
@@ -506,7 +505,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Deep Teal"
 	},
-		{
+	{
 		"name": "Cameo Zaffre",
 		"author": "Saro Rindone",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Cameo%20Zaffre.jpg",
@@ -514,7 +513,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Cameo Zaffre"
 	},
-		{
+	{
 		"name": "Cameo Zaffre",
 		"author": "Saro Rindone",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Cameo%20Zaffre1.jpg",
@@ -522,7 +521,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Cameo Zaffre"
 	},
-		{
+	{
 		"name": "Cameo Zaffre",
 		"author": "Saro Rindone",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Cameo%20Zaffre2.jpg",
@@ -530,7 +529,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Cameo Zaffre"
 	},
-		{
+	{
 		"name": "Cameo Zaffre",
 		"author": "Saro Rindone",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Cameo%20Zaffre3.jpg",
@@ -538,7 +537,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Cameo Zaffre"
 	},
-		{
+	{
 		"name": "Cameo Zaffre",
 		"author": "Saro Rindone",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Cameo%20Zaffre4.jpg",
@@ -546,7 +545,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Cameo Zaffre"
 	},
-		{
+	{
 		"name": "Cameo Zaffre",
 		"author": "Saro Rindone",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Cameo%20Zaffre5.jpg",
@@ -554,7 +553,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Cameo Zaffre"
 	},
-		{
+	{
 		"name": "Cameo Zaffre",
 		"author": "Saro Rindone",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Cameo%20Zaffre6.jpg",
@@ -562,7 +561,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Cameo Zaffre"
 	},
-		{
+	{
 		"name": "Cameo Zaffre",
 		"author": "Saro Rindone",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Cameo%20Zaffre7.jpg",
@@ -570,7 +569,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Cameo Zaffre"
 	},
-		{
+	{
 		"name": "Fable Cerulean",
 		"author": "Photo's",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Fable%20Cerulean.jpg",
@@ -578,7 +577,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Fable"
 	},
-		{
+	{
 		"name": "Fable Cerulean",
 		"author": "Photo's",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Fable%20Cerulean1.jpg",
@@ -586,7 +585,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Fable"
 	},
-		{
+	{
 		"name": "Fable Cerulean",
 		"author": "Photo's",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Fable%20Cerulean2.jpg",
@@ -594,7 +593,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Fable"
 	},
-		{
+	{
 		"name": "Fable Cerulean",
 		"author": "Photo's",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Fable%20Cerulean3.jpg",
@@ -602,7 +601,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Fable"
 	},
-		{
+	{
 		"name": "Fable Cerulean",
 		"author": "Photo's",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Fable%20Cerulean4.jpg",
@@ -610,7 +609,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Fable"
 	},
-		{
+	{
 		"name": "Fable Cerulean",
 		"author": "Photo's",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Fable%20Cerulean5.jpg",
@@ -618,7 +617,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Fable"
 	},
-		{
+	{
 		"name": "Fable Cerulean",
 		"author": "Photo's",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Fable%20Cerulean6.jpg",
@@ -626,7 +625,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Fable"
 	},
-			{
+	{
 		"name": "Half Mauve",
 		"author": "Photo's",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Half%20Mauve.jpg",
@@ -634,7 +633,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Half"
 	},
-		{
+	{
 		"name": "Half Mauve",
 		"author": "Photo's",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Half%20Mauve1.jpg",
@@ -642,7 +641,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Half"
 	},
-		{
+	{
 		"name": "Half Mauve",
 		"author": "Photo's",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Half%20Mauve2.jpg",
@@ -650,7 +649,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Half"
 	},
-		{
+	{
 		"name": "Half Mauve",
 		"author": "Photo's",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Half%20Mauve3.jpg",
@@ -658,7 +657,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Half"
 	},
-		{
+	{
 		"name": "Half Mauve",
 		"author": "Photo's",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Half%20Mauve4.jpg",
@@ -666,7 +665,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Half"
 	},
-		{
+	{
 		"name": "Fable Jade",
 		"author": "Photo's",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Fable%20Jade.jpg",
@@ -674,7 +673,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Fable"
 	},
-		{
+	{
 		"name": "Fable Jade",
 		"author": "Photo's",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Fable%20Jade1.jpg",
@@ -682,7 +681,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Fable"
 	},
-		{
+	{
 		"name": "Fable Jade",
 		"author": "Photo's",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Fable%20Jade2.jpg",
@@ -690,7 +689,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Fable"
 	},
-		{
+	{
 		"name": "Fable Jade",
 		"author": "Photo's",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Fable%20Jade3.jpg",
@@ -698,7 +697,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Fable"
 	},
-		{
+	{
 		"name": "Fable Jade",
 		"author": "Photo's",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Fable%20Jade4.jpg",
@@ -706,7 +705,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Fable"
 	},
-		{
+	{
 		"name": "Fable Jade",
 		"author": "Photo's",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Fable%20Jade5.jpg",
@@ -714,7 +713,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Fable"
 	},
-		{
+	{
 		"name": "Fable Jade",
 		"author": "Photo's",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Fable%20Jade6.jpg",
@@ -722,7 +721,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Fable"
 	},
-		{
+	{
 		"name": "Fable Jade",
 		"author": "Photo's",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Fable%20Jade7.jpg",
@@ -730,7 +729,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Fable"
 	},
-		{
+	{
 		"name": "Cameo Gold",
 		"author": "Photo's",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Cameo%20Gold.jpg",
@@ -738,7 +737,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Cameo"
 	},
-		{
+	{
 		"name": "Cameo Gold",
 		"author": "Photo's",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Cameo%20Gold1.jpg",
@@ -746,7 +745,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Cameo"
 	},
-		{
+	{
 		"name": "Cameo Gold",
 		"author": "Photo's",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Cameo%20Gold2.jpg",
@@ -754,7 +753,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Cameo"
 	},
-		{
+	{
 		"name": "Cameo Gold",
 		"author": "Photo's",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Cameo%20Gold3.jpg",
@@ -762,7 +761,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Cameo"
 	},
-		{
+	{
 		"name": "Cameo Gold",
 		"author": "Photo's",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Cameo%20Gold4.jpg",
@@ -770,7 +769,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Cameo"
 	},
-		{
+	{
 		"name": "Cameo Gold",
 		"author": "Photo's",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Cameo%20Gold5.jpg",
@@ -778,7 +777,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Cameo"
 	},
-		{
+	{
 		"name": "Cameo Gold",
 		"author": "Photo's",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Cameo%20Gold6.jpg",
@@ -786,7 +785,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Cameo"
 	},
-		{
+	{
 		"name": "Cameo Gold",
 		"author": "Photo's",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Cameo%20Gold7.jpg",
@@ -794,7 +793,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Cameo"
 	},
-		{
+	{
 		"name": "Cameo Cerise",
 		"author": "Photo's",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Cameo%20Cerise.jpg",
@@ -802,7 +801,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Cameo"
 	},
-		{
+	{
 		"name": "Cameo Cerise",
 		"author": "Photo's",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Cameo%20Cerise1.jpg",
@@ -810,7 +809,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Cameo"
 	},
-		{
+	{
 		"name": "Cameo Cerise",
 		"author": "Photo's",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Cameo%20Cerise2.jpg",
@@ -818,7 +817,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Cameo"
 	},
-		{
+	{
 		"name": "Cameo Cerise",
 		"author": "Photo's",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Cameo%20Cerise3.jpg",
@@ -826,7 +825,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Cameo"
 	},
-		{
+	{
 		"name": "Cameo Cerise",
 		"author": "Photo's",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Cameo%20Cerise4.jpg",
@@ -834,7 +833,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Cameo"
 	},
-		{
+	{
 		"name": "Cameo Cerise",
 		"author": "Photo's",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Cameo%20Cerise5.jpg",
@@ -842,7 +841,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Cameo"
 	},
-		{
+	{
 		"name": "Hexad Blue",
 		"author": "Saro Rindone",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Hexad%20Blue.jpg",
@@ -1026,7 +1025,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Lazer"
 	},
-		{
+	{
 		"name": "Lazer Candy",
 		"author": "Photo's",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Lazer%20Candy.jpg",
@@ -1082,7 +1081,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Lazer"
 	},
-		{
+	{
 		"name": "Lazer Candy",
 		"author": "Photo's",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Lazer%20Candy7.jpg",
@@ -1146,7 +1145,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Lazer"
 	},
-		{
+	{
 		"name": "Lazer Pink",
 		"author": "Photo's",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Lazer%20Pink4.jpg",
@@ -1218,7 +1217,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Lazer"
 	},
-		{
+	{
 		"name": "Lazer Green",
 		"author": "Maria Ps",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Lazer%20Green4.jpg",
@@ -1242,7 +1241,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Lazer"
 	},
-		{
+	{
 		"name": "Lazer Green",
 		"author": "Maria Ps",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Lazer%20Green7.jpg",
@@ -1282,7 +1281,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Lazer"
 	},
-		{
+	{
 		"name": "Lazer Cerise",
 		"author": "Maria Ps",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Lazer%20Cerise4.jpg",
@@ -1354,7 +1353,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Nepal"
 	},
-		{
+	{
 		"name": "Nepal Gold",
 		"author": "Maria Ps",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Nepal%20Gold4.jpg",
@@ -1410,7 +1409,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Milky"
 	},
-		{
+	{
 		"name": "Milky Gold",
 		"author": "Photo's",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Milky%20Gold4.jpg",
@@ -1546,7 +1545,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Deep"
 	},
-		{
+	{
 		"name": "Deep Violet",
 		"author": "Photo's",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Deep%20Violet4.jpg",
@@ -2050,7 +2049,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Spatter"
 	},
-		{
+	{
 		"name": "Spatter Purple",
 		"author": "Photo's",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Spatter%20Purple.jpg",
@@ -2186,7 +2185,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Spatter"
 	},
-		{
+	{
 		"name": "Spatter Purple",
 		"author": "Photo's",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Spatter%20Purple17.jpg",
@@ -2338,7 +2337,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Oval"
 	},
-		{
+	{
 		"name": "Oval TurQuoise",
 		"author": "Photo's",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Oval%20TurQuoise17.jpg",
@@ -3057,7 +3056,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Deep"
 	},
-		{
+	{
 		"name": "Deep Green",
 		"author": "Maria Ps",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Deep%20Green17.jpg",
@@ -3073,7 +3072,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Deep"
 	},
-		{
+	{
 		"name": "Deep Green",
 		"author": "Maria Ps",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Deep%20Green19.jpg",
@@ -3242,7 +3241,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Line"
 	},
-		{
+	{
 		"name": "Line Robin",
 		"author": "Alan G",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Line%20Robin17.jpg",
@@ -3259,7 +3258,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Line"
 	},
-		{
+	{
 		"name": "Line Robin",
 		"author": "Maria Ps",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Line%20Robin19.jpg",
@@ -3571,7 +3570,7 @@
 		"dimensions": "1440x2960",
 		"collections": "Storm"
 	},
-		{
+	{
 		"name": "Storm Gold",
 		"author": "Photo's",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Storm%20Gold24.jpg",
@@ -3761,7 +3760,7 @@
 		"author": "Alan G",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Storm%20Purple1.jpg",
 		"downloadable": false,
-		"copyright": "Download Link of Original Creator and Telegram Channel:- https://t.me/G_Walls"
+		"copyright": "Download Link of Original Creator and Telegram Channel:- https://t.me/G_Walls",
 		"dimensions": "1440x2960",
 		"collections": "Storm"
 	},
@@ -3818,7 +3817,7 @@
 		"author": "Alan G",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Storm%20Purple8.jpg",
 		"downloadable": false,
-		"copyright": "Download Link of Original Creator and Telegram Channel:- https://t.me/G_Walls"
+		"copyright": "Download Link of Original Creator and Telegram Channel:- https://t.me/G_Walls",
 		"dimensions": "1440x2960",
 		"collections": "Storm"
 	},
@@ -3852,7 +3851,7 @@
 		"author": "Alan G",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Storm%20Purple12.jpg",
 		"downloadable": false,
-		"copyright": "Download Link of Original Creator and Telegram Channel:- https://t.me/G_Walls"
+		"copyright": "Download Link of Original Creator and Telegram Channel:- https://t.me/G_Walls",
 		"dimensions": "1440x2960",
 		"collections": "Storm"
 	},
@@ -4074,7 +4073,7 @@
 		"author": "Alan G",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Line%20Smoky7.jpg",
 		"downloadable": false,
-		"copyright": "Download Link of Original Creator and Telegram Channel:- https://t.me/G_Walls"
+		"copyright": "Download Link of Original Creator and Telegram Channel:- https://t.me/G_Walls",
 		"dimensions": "1440x2960",
 		"collections": "Line"
 	},
@@ -4083,7 +4082,7 @@
 		"author": "Alan G",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Line%20Smoky8.jpg",
 		"downloadable": false,
-		"copyright": "Download Link of Original Creator and Telegram Channel:- https://t.me/G_Walls"
+		"copyright": "Download Link of Original Creator and Telegram Channel:- https://t.me/G_Walls",
 		"dimensions": "1440x2960",
 		"collections": "Line"
 	},
@@ -4092,7 +4091,7 @@
 		"author": "Alan G",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Line%20Smoky9.jpg",
 		"downloadable": false,
-		"copyright": "Download Link of Original Creator and Telegram Channel:- https://t.me/G_Walls"
+		"copyright": "Download Link of Original Creator and Telegram Channel:- https://t.me/G_Walls",
 		"dimensions": "1440x2960",
 		"collections": "Line"
 	},
@@ -4101,7 +4100,7 @@
 		"author": "Alan G",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Line%20Smoky10.jpg",
 		"downloadable": false,
-		"copyright": "Download Link of Original Creator and Telegram Channel:- https://t.me/G_Walls"
+		"copyright": "Download Link of Original Creator and Telegram Channel:- https://t.me/G_Walls",
 		"dimensions": "1440x2960",
 		"collections": "Line"
 	},
@@ -4174,7 +4173,7 @@
 		"author": "Alan G",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Storm%20Cerise5.jpg",
 		"downloadable": false,
-		"copyright": "Download Link of Original Creator and Telegram Channel:- https://t.me/G_Walls"
+		"copyright": "Download Link of Original Creator and Telegram Channel:- https://t.me/G_Walls",
 		"dimensions": "1440x2960",
 		"collections": "Storm"
 	},
@@ -4183,7 +4182,7 @@
 		"author": "Alan G",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Storm%20Cerise6.jpg",
 		"downloadable": false,
-		"copyright": "Download Link of Original Creator and Telegram Channel:- https://t.me/G_Walls"
+		"copyright": "Download Link of Original Creator and Telegram Channel:- https://t.me/G_Walls",
 		"dimensions": "1440x2960",
 		"collections": "Storm"
 	},
@@ -4192,7 +4191,7 @@
 		"author": "Alan G",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Storm%20Cerise7.jpg",
 		"downloadable": false,
-		"copyright": "Download Link of Original Creator and Telegram Channel:- https://t.me/G_Walls"
+		"copyright": "Download Link of Original Creator and Telegram Channel:- https://t.me/G_Walls",
 		"dimensions": "1440x2960",
 		"collections": "Storm"
 	},
@@ -4339,7 +4338,7 @@
 		"author": "Alan G",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Storm%20Sienna2.jpg",
 		"downloadable": false,
-		"copyright": "Download Link of Original Creator and Telegram Channel:- https://t.me/G_Walls"
+		"copyright": "Download Link of Original Creator and Telegram Channel:- https://t.me/G_Walls",
 		"dimensions": "1440x2960",
 		"collections": "Storm"
 	},
@@ -4348,7 +4347,7 @@
 		"author": "Alan G",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Storm%20Sienna3.jpg",
 		"downloadable": false,
-		"copyright": "Download Link of Original Creator and Telegram Channel:- https://t.me/G_Walls"
+		"copyright": "Download Link of Original Creator and Telegram Channel:- https://t.me/G_Walls",
 		"dimensions": "1440x2960",
 		"collections": "Storm"
 	},
@@ -4357,7 +4356,7 @@
 		"author": "Alan G",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Storm%20Sienna4.jpg",
 		"downloadable": false,
-		"copyright": "Download Link of Original Creator and Telegram Channel:- https://t.me/G_Walls"
+		"copyright": "Download Link of Original Creator and Telegram Channel:- https://t.me/G_Walls",
 		"dimensions": "1440x2960",
 		"collections": "Storm"
 	},
@@ -4366,8 +4365,7 @@
 		"author": "Alan G",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Storm%20Sienna5.jpg",
 		"downloadable": false,
-		"copyright": "Download Link of Original Creator and Telegram Channel:- https://t.me/G_Walls"
-		"copyright": "Download Link of Original Creator and Telegram Channel:-https://t.me/G_Walls",
+		"copyright": "Download Link of Original Creator and Telegram Channel:- https://t.me/G_Walls",
 		"dimensions": "1440x2960",
 		"collections": "Storm"
 	},
@@ -4531,30 +4529,30 @@
 		"dimensions": "1440x2960",
 		"collections": "Line"
 	},
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	{
 		"name": "Orbic Sapphire",
 		"author": "Sam Summer & Resplash",
