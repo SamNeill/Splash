@@ -3764,30 +3764,6 @@
 	{
 		"name": "Line Rose",
 		"author": "Photo's",
-		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Line%20Rose3.jpg",
-		"downloadable": true,
-		"dimensions": "1440x2960",
-		"collections": "Line"
-	},
-	{
-		"name": "Line Rose",
-		"author": "Photo's",
-		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Line%20Rose4.jpg",
-		"downloadable": true,
-		"dimensions": "1440x2960",
-		"collections": "Line"
-	},
-	{
-		"name": "Line Rose",
-		"author": "Photo's",
-		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Line%20Rose5.jpg",
-		"downloadable": true,
-		"dimensions": "1440x2960",
-		"collections": "Line"
-	},
-	{
-		"name": "Line Rose",
-		"author": "Photo's",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Line%20Rose6.jpg",
 		"downloadable": true,
 		"dimensions": "1440x2960",
@@ -4181,14 +4157,6 @@
 		"name": "Fade Salmon",
 		"author": "Photo's",
 		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Fade%20Salmon5.jpg",
-		"downloadable": true,
-		"dimensions": "1440x2960",
-		"collections": "Fade"
-	},
-	{
-		"name": "Fade Salmon",
-		"author": "Photo's",
-		"url": "https://raw.githubusercontent.com/SamNeill/Splash/master/Fade%20Salmon6.jpg",
 		"downloadable": true,
 		"dimensions": "1440x2960",
 		"collections": "Fade"
